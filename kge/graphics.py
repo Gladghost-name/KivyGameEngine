@@ -35,7 +35,7 @@ class GraphicsScene(Screen):
             Window.clearcolor = (0, 0, 0, 1)
         else:
             Window.clearcolor = background_color
-# 500
+#
 # class AppBox(BoxLayout):
 #     def __init__(self):
 #         super(AppBox, self).__init__()
